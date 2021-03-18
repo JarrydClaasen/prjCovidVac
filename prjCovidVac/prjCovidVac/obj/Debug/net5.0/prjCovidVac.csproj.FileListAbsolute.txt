@@ -1,0 +1,16 @@
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\prjCovidVac.csprojAssemblyReference.cache
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\prjCovidVac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\prjCovidVac.AssemblyInfoInputs.cache
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\prjCovidVac.AssemblyInfo.cs
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\prjCovidVac.csproj.CoreCompileInputs.cache
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\bin\Debug\net5.0\prjCovidVac.exe
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\bin\Debug\net5.0\prjCovidVac.deps.json
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\bin\Debug\net5.0\prjCovidVac.runtimeconfig.json
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\bin\Debug\net5.0\prjCovidVac.runtimeconfig.dev.json
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\bin\Debug\net5.0\prjCovidVac.dll
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\bin\Debug\net5.0\ref\prjCovidVac.dll
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\bin\Debug\net5.0\prjCovidVac.pdb
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\prjCovidVac.dll
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\ref\prjCovidVac.dll
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\prjCovidVac.pdb
+C:\Users\jarry\Documents\Varsity College 2021\Programming 2A (PROG6211)\Visual Studio\Projects\prjCovidVac\prjCovidVac\obj\Debug\net5.0\prjCovidVac.genruntimeconfig.cache
